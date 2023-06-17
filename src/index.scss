@@ -12,6 +12,13 @@ code {
 
 /******** FLEXBOX ********/
 
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .flex-around {
   display: flex;
   justify-content: space-around;

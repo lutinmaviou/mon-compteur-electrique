@@ -1,0 +1,50 @@
+.picture {
+  margin-top: 8vw;
+  display: none;
+}
+
+#video {
+  position: absolute;
+  top: 37vw;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+  width: 60vw;
+  height: 45vw;
+}
+
+#takePictureBtn {
+  position: absolute;
+  top: 100vw;
+}
+
+.btn-container {
+  position: absolute;
+  top: 100vw;
+  display: none;
+  width: 80%;
+}
+
+#clearPictureBtn {
+  margin-right: 5vw;
+}
+
+#canvas {
+  display: none;
+  width: 60vw;
+  height: 45vw;
+}
+
+#photo {
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+  width: 60vw;
+  height: 45vw;
+}
+
+.output {
+  width: 60vw;
+  position: absolute;
+  top: 37vw;
+  z-index: 10;
+  display: none;
+}

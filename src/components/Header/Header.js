@@ -1,4 +1,3 @@
-import { React, useEffect, useState } from 'react';
 import logo from './../../assets/img/logo.png';
 import getCurrentDate from './../../utils/getCurrentDate';
 import GetCurrentTime from './../../utils/getCurrentTime';

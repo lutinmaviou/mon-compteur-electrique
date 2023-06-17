@@ -1,7 +1,6 @@
 const getCurrentDate = () => {
   const newDate = new Date();
   const options = {
-    //weekday: 'long',
     year: 'numeric',
     month: 'numeric',
     day: 'numeric',
